@@ -1,0 +1,14 @@
+# User config
+author: "Guillermo Rubio"
+tagline: "Designer"
+description: "Hi. I'm Guillermo Rubio. A Graphic Designer based in Los Angeles, California."
+keywords: ""
+email: "theguillermorubio@gmail.com"
+
+
+# Site config
+baseurl: ""
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed
