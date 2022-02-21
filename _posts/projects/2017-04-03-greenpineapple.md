@@ -10,7 +10,7 @@ project:
   title: "Mountain Logo - Illustrator"
   type: "Vector"
   url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/greenpineapple/logo.png"
+  logo: "/assets/images/projects/greenpineapple/black.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
