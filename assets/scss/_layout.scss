@@ -1,8 +1,10 @@
+
 .container {
 	display: block;
 	margin: 0 auto;
 	max-width: 70em;
 	padding: 0 3rem;
+	margin-bottom: 40px;
 	@include clearfix;
 }
 
@@ -43,7 +45,7 @@
 
 .intro,
 .projects {
-	padding: 0 0 5rem;
+	// padding: 0 0 5rem;
 }
 
 .intro {
@@ -106,9 +108,14 @@
 
 	}
 
-	img {
+	img  {
 		width: 80%;
 		margin-top: 80px;
+	}
+
+	.ux img {
+		width: 80%;
+		margin-top: 30px;
 	}
 
 	span {
